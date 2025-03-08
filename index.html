@@ -51,8 +51,9 @@
     // Fetch the JSON data from the GitHub file
     async function fetchVocabData() {
       try {
-        const response = await fetch('https://raw.githubusercontent.com/devanginimishra/vocab/main/vocabjson.json');  // Replace with your actual GitHub raw URL
+        const response = await fetch('https://raw.githubusercontent.com/devanginimishra/vocab/main/vocabjson.json');
         vocabData = await response.json();
+        shuffleArray(vocabData);  // Shuffle the words only once after fetching the data
         loadWords();  // Call the loadWords function after data is fetched
       } catch (error) {
         console.error('Error fetching the vocabulary data:', error);
@@ -72,8 +73,7 @@
       const vocabContainer = document.getElementById('vocab-container');
       vocabContainer.innerHTML = '';  // Clear previous content
 
-      // Shuffle vocabulary data each time the user clicks "Next"
-      shuffleArray(vocabData);
+      // Get the next 5 words
       const wordsToDisplay = vocabData.slice(currentIndex, currentIndex + wordsPerPage);
 
       wordsToDisplay.forEach(item => {

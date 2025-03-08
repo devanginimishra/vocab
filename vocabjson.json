@@ -1,0 +1,672 @@
+[
+    {
+        "Word": "Didactic",
+        "Definition": "Intended to teach, often in a moralizing way",
+        "Usage": "The professor’s didactic tone made the lecture feel like a sermon."
+    },
+    {
+        "Word": "Relegate",
+        "Definition": "To assign to a lower rank or position",
+        "Usage": "After the mistake, he was relegated to a less important role."
+    },
+    {
+        "Word": "Subjugate",
+        "Definition": "To bring under control or domination",
+        "Usage": "The dictator sought to subjugate his people through fear."
+    },
+    {
+        "Word": "Tenets",
+        "Definition": "Principles or beliefs held by a group",
+        "Usage": "The tenets of democracy include freedom and equality."
+    },
+    {
+        "Word": "Wrack",
+        "Definition": "To cause extreme damage or suffering",
+        "Usage": "The hurricane wracked the coastal town."
+    },
+    {
+        "Word": "Eponymous",
+        "Definition": "Named after a particular person",
+        "Usage": "The band’s eponymous album was their biggest hit."
+    },
+    {
+        "Word": "Renegade",
+        "Definition": "A person who betrays or rebels against a group",
+        "Usage": "He was labeled a renegade after leaving the political party."
+    },
+    {
+        "Word": "Calisthenics",
+        "Definition": "Bodyweight exercises for fitness",
+        "Usage": "She does calisthenics every morning to stay in shape."
+    },
+    {
+        "Word": "Ouija board",
+        "Definition": "A board used to communicate with spirits",
+        "Usage": "They played with a Ouija board and got spooked."
+    },
+    {
+        "Word": "To be flat-footed",
+        "Definition": "To be caught off guard or unprepared",
+        "Usage": "The company was flat-footed when the competitor launched first."
+    },
+    {
+        "Word": "Cajole",
+        "Definition": "To persuade with flattery or deceit",
+        "Usage": "He cajoled his friend into lending him money."
+    },
+    {
+        "Word": "Elusive",
+        "Definition": "Difficult to find, catch, or achieve",
+        "Usage": "The truth remained elusive despite the investigation."
+    },
+    {
+        "Word": "Nebulous",
+        "Definition": "Vague, unclear, or ill-defined",
+        "Usage": "His explanation was so nebulous that no one understood."
+    },
+    {
+        "Word": "Larceny",
+        "Definition": "Theft of personal property",
+        "Usage": "He was arrested for grand larceny after stealing a car."
+    },
+    {
+        "Word": "Tenacity",
+        "Definition": "Persistence and determination",
+        "Usage": "Her tenacity helped her complete the marathon."
+    },
+    {
+        "Word": "Deify/Diefied",
+        "Definition": "To worship or treat as a god",
+        "Usage": "The ancient civilization deified their ruler."
+    },
+    {
+        "Word": "Unravel",
+        "Definition": "To untangle or clarify something complicated",
+        "Usage": "The detective unraveled the mystery in record time."
+    },
+    {
+        "Word": "Rail about sth.",
+        "Definition": "To complain or protest loudly",
+        "Usage": "She railed about the unfair policies at the meeting."
+    },
+    {
+        "Word": "Chutzpah",
+        "Definition": "Extreme self-confidence or audacity",
+        "Usage": "It took chutzpah to ask for a raise on his first day."
+    },
+    {
+        "Word": "Clairvoyant",
+        "Definition": "Having the ability to see the future",
+        "Usage": "The clairvoyant predicted the winning lottery numbers."
+    },
+    {
+        "Word": "Canned",
+        "Definition": "Pre-recorded or formulaic",
+        "Usage": "The politician’s speech sounded canned and insincere."
+    },
+    {
+        "Word": "Moonlighting",
+        "Definition": "Having a second job in addition to a main job",
+        "Usage": "He was fired for moonlighting as a bartender at night."
+    },
+    {
+        "Word": "Brazen",
+        "Definition": "Bold and without shame",
+        "Usage": "She made a brazen attempt to take credit for his work."
+    },
+    {
+        "Word": "Erudite",
+        "Definition": "Having deep, scholarly knowledge",
+        "Usage": "The professor was known for his erudite lectures."
+    },
+    {
+        "Word": "Gluttony",
+        "Definition": "Excessive eating or drinking",
+        "Usage": "His gluttony at the buffet was embarrassing."
+    },
+    {
+        "Word": "Impertinent",
+        "Definition": "Rude or not showing proper respect",
+        "Usage": "His impertinent remarks angered the teacher."
+    },
+    {
+        "Word": "In arrears",
+        "Definition": "Behind in payments or debt",
+        "Usage": "The company was in arrears on its rent."
+    },
+    {
+        "Word": "Sardonic",
+        "Definition": "Mocking or cynical",
+        "Usage": "His sardonic smile made it clear he wasn’t impressed."
+    },
+    {
+        "Word": "Genesis",
+        "Definition": "The beginning or origin of something",
+        "Usage": "The genesis of the idea came from a casual conversation."
+    },
+    {
+        "Word": "Swaddled",
+        "Definition": "Wrapped tightly (usually a baby)",
+        "Usage": "The newborn was swaddled in a soft blanket."
+    },
+    {
+        "Word": "Swindler",
+        "Definition": "A person who cheats others out of money",
+        "Usage": "The swindler tricked investors into giving him millions."
+    },
+    {
+        "Word": "Novelty",
+        "Definition": "Something new, original, or unusual",
+        "Usage": "The novelty of the gadget wore off quickly."
+    },
+    {
+        "Word": "Draconian",
+        "Definition": "Extremely harsh or severe",
+        "Usage": "The new laws were considered draconian by many."
+    },
+    {
+        "Word": "Vilify",
+        "Definition": "To speak badly about someone",
+        "Usage": "The media vilified the politician after the scandal."
+    },
+    {
+        "Word": "Flummoxed",
+        "Definition": "Confused or bewildered",
+        "Usage": "She was flummoxed by the complex math problem."
+    },
+    {
+        "Word": "Regalia",
+        "Definition": "Special clothing or symbols of a group",
+        "Usage": "The king’s regalia included a crown and a scepter."
+    },
+    {
+        "Word": "Ostensible",
+        "Definition": "Stated to be true but possibly not",
+        "Usage": "His ostensible reason for leaving was a family emergency."
+    },
+    {
+        "Word": "Persona Non Grata",
+        "Definition": "An unwelcome or banned person",
+        "Usage": "After the scandal, he became persona non grata in Hollywood."
+    },
+    {
+        "Word": "Ignoramus",
+        "Definition": "A person who is ignorant or lacks knowledge",
+        "Usage": "He called his opponent an ignoramus during the debate."
+    },
+    {
+        "Word": "Vagabond",
+        "Definition": "A person who wanders with no fixed home",
+        "Usage": "The vagabond traveled from town to town."
+    },
+    {
+        "Word": "Emphatic",
+        "Definition": "Expressing something forcefully and clearly",
+        "Usage": "She was emphatic that she would not change her mind."
+    },
+    {
+        "Word": "Henpecked",
+        "Definition": "Dominated by one’s wife (negative connotation)",
+        "Usage": "He was often teased for being henpecked."
+    },
+    {
+        "Word": "Quagmire",
+        "Definition": "A difficult or complicated situation",
+        "Usage": "The company found itself in a financial quagmire."
+    },
+    {
+        "Word": "Dumbfounded",
+        "Definition": "Greatly astonished or shocked",
+        "Usage": "He was dumbfounded when he won the lottery."
+    },
+    {
+        "Word": "Extolled",
+        "Definition": "Praised highly",
+        "Usage": "The teacher extolled her student’s efforts."
+    },
+    {
+        "Word": "Hackneyed",
+        "Definition": "Overused and unoriginal",
+        "Usage": "His speech was full of hackneyed phrases."
+    },
+    {
+        "Word": "Obfuscate",
+        "Definition": "To deliberately make something unclear",
+        "Usage": "The lawyer tried to obfuscate the facts."
+    },
+    {
+        "Word": "Unscrupulous",
+        "Definition": "Having no moral principles",
+        "Usage": "The unscrupulous businessman scammed his clients."
+    },
+    {
+        "Word": "Baffled",
+        "Definition": "Completely confused",
+        "Usage": "She was baffled by the complicated instructions."
+    },
+    {
+        "Word": "Clemency",
+        "Definition": "Mercy or leniency",
+        "Usage": "The judge granted clemency to the first-time offender."
+    },
+    {
+        "Word": "Inclemency",
+        "Definition": "Severe or harsh weather conditions",
+        "Usage": "The inclemency of winter kept them indoors."
+    },
+    {
+        "Word": "Cerebral",
+        "Definition": "Intellectual rather than emotional",
+        "Usage": "The novel was too cerebral for casual readers."
+    },
+    {
+        "Word": "Biennial",
+        "Definition": "Happening every two years",
+        "Usage": "The art festival is a biennial event."
+    },
+    {
+        "Word": "Indemnification",
+        "Definition": "Compensation for loss or damage",
+        "Usage": "The contract included an indemnification clause."
+    },
+    {
+        "Word": "Posterity",
+        "Definition": "Future generations",
+        "Usage": "These laws will impact posterity."
+    },
+    {
+        "Word": "Barrage",
+        "Definition": "A continuous attack or outpouring",
+        "Usage": "She faced a barrage of questions from reporters."
+    },
+    {
+        "Word": "Niggle",
+        "Definition": "To worry unnecessarily about small things",
+        "Usage": "He niggled over every minor detail in the project."
+    },
+    {
+        "Word": "Barge",
+        "Definition": "To push forward forcefully",
+        "Usage": "He barged into the meeting uninvited."
+    },
+    {
+        "Word": "Pesky",
+        "Definition": "Annoying or troublesome",
+        "Usage": "The pesky mosquitoes ruined our picnic."
+    },
+    {
+        "Word": "Concede",
+        "Definition": "To admit reluctantly",
+        "Usage": "He conceded that his opponent had a point."
+    },
+    {
+        "Word": "Conceit",
+        "Definition": "Excessive pride or a clever idea",
+        "Usage": "His conceit made him difficult to work with."
+    },
+    {
+        "Word": "Candour",
+        "Definition": "Honesty and openness",
+        "Usage": "She spoke with candour about her past mistakes."
+    },
+    {
+        "Word": "Noxious",
+        "Definition": "Harmful, poisonous",
+        "Usage": "The factory emitted noxious fumes."
+    },
+    {
+        "Word": "Canned (response)",
+        "Definition": "Pre-prepared, unoriginal answer",
+        "Usage": "His canned response didn’t impress the interviewer."
+    },
+    {
+        "Word": "Poignant",
+        "Definition": "Deeply touching or emotional",
+        "Usage": "The movie’s ending was poignant."
+    },
+    {
+        "Word": "Numinous",
+        "Definition": "Having a spiritual or mysterious quality",
+        "Usage": "The cathedral had a numinous atmosphere."
+    },
+    {
+        "Word": "Protracted dying",
+        "Definition": "Long and drawn-out process of dying",
+        "Usage": "The disease led to a protracted dying process."
+    },
+    {
+        "Word": "Futile",
+        "Definition": "Pointless, without result",
+        "Usage": "Their efforts to stop the flood were futile."
+    },
+    {
+        "Word": "Mosey",
+        "Definition": "To walk slowly and casually",
+        "Usage": "He moseyed down the street, enjoying the evening."
+    },
+    {
+        "Word": "Cogent",
+        "Definition": "Clear, logical, and convincing",
+        "Usage": "She presented a cogent argument in court."
+    },
+    {
+        "Word": "Callous",
+        "Definition": "Emotionally insensitive",
+        "Usage": "His callous remarks hurt her feelings."
+    },
+    {
+        "Word": "Confounding",
+        "Definition": "Confusing or surprising",
+        "Usage": "The experiment had confounding results."
+    },
+    {
+        "Word": "Tenable",
+        "Definition": "Defensible, reasonable",
+        "Usage": "His argument was not tenable."
+    },
+    {
+        "Word": "Copious",
+        "Definition": "Abundant, large in quantity",
+        "Usage": "She took copious notes during the lecture."
+    },
+    {
+        "Word": "Penchant",
+        "Definition": "A strong liking for something",
+        "Usage": "He has a penchant for vintage cars."
+    },
+    {
+        "Word": "Remiss",
+        "Definition": "Negligent, careless",
+        "Usage": "I was remiss in not responding to your email."
+    },
+    {
+        "Word": "Confounding",
+        "Definition": "Causing confusion or surprise due to being unexpected or difficult to explain",
+        "Usage": "The experiment’s results were confounding to the researchers."
+    },
+    {
+        "Word": "Dumbfounded",
+        "Definition": "Greatly astonished or shocked",
+        "Usage": "She was dumbfounded when she won the lottery."
+    },
+    {
+        "Word": "Copious",
+        "Definition": "Abundant or large in quantity",
+        "Usage": "He took copious notes during the lecture."
+    },
+    {
+        "Word": "Penchant",
+        "Definition": "A strong liking for something",
+        "Usage": "She has a penchant for collecting rare books."
+    },
+    {
+        "Word": "Remiss",
+        "Definition": "Negligent or careless in duty",
+        "Usage": "I was remiss in failing to reply to your message."
+    },
+    {
+        "Word": "Cavalier",
+        "Definition": "Showing a lack of proper concern",
+        "Usage": "His cavalier attitude towards deadlines frustrated his colleagues."
+    },
+    {
+        "Word": "Pedantic",
+        "Definition": "Overly concerned with minor details or academic rules",
+        "Usage": "His pedantic corrections made the conversation tedious."
+    },
+    {
+        "Word": "Inexorable",
+        "Definition": "Impossible to stop or prevent",
+        "Usage": "The passage of time is inexorable."
+    },
+    {
+        "Word": "Hubris",
+        "Definition": "Excessive pride or self-confidence",
+        "Usage": "His hubris led to his downfall."
+    },
+    {
+        "Word": "Wrest",
+        "Definition": "To take something forcefully",
+        "Usage": "The rebels tried to wrest control from the government."
+    },
+    {
+        "Word": "Continuum",
+        "Definition": "A continuous sequence in which adjacent elements are not noticeably different, but extremes are distinct",
+        "Usage": "Intelligence exists on a continuum rather than as an absolute trait."
+    },
+    {
+        "Word": "Quackery & Snake Oil",
+        "Definition": "Dishonest practices or fraudulent medical treatments",
+        "Usage": "The doctor was accused of quackery for selling snake oil remedies."
+    },
+    {
+        "Word": "Fallible",
+        "Definition": "Capable of making mistakes",
+        "Usage": "Even experts are fallible and make errors."
+    },
+    {
+        "Word": "Fallacy",
+        "Definition": "A mistaken belief based on unsound reasoning",
+        "Usage": "The argument was based on a logical fallacy."
+    },
+    {
+        "Word": "Fleeting Moments",
+        "Definition": "Brief, short-lived experiences",
+        "Usage": "The sunset created fleeting moments of beauty."
+    },
+    {
+        "Word": "Serendipitous",
+        "Definition": "Happening by chance in a happy or beneficial way",
+        "Usage": "Their meeting at the airport was serendipitous."
+    },
+    {
+        "Word": "Newfangled",
+        "Definition": "Recently invented, often unnecessary",
+        "Usage": "My grandfather dislikes newfangled technology."
+    },
+    {
+        "Word": "Marred",
+        "Definition": "Damaged, spoiled, or impaired",
+        "Usage": "His reputation was marred by the scandal."
+    },
+    {
+        "Word": "Afflictions",
+        "Definition": "Conditions causing pain or suffering",
+        "Usage": "He suffered from several afflictions in his old age."
+    },
+    {
+        "Word": "Loathsome Nemesis",
+        "Definition": "A hated and formidable enemy",
+        "Usage": "The villain was a loathsome nemesis to the hero."
+    },
+    {
+        "Word": "Laypeople",
+        "Definition": "People who are not experts in a specific field",
+        "Usage": "The book explained quantum physics for laypeople."
+    },
+    {
+        "Word": "Instigated",
+        "Definition": "Initiated or provoked an action or event",
+        "Usage": "His speech instigated a wave of protests."
+    },
+    {
+        "Word": "Infirmity",
+        "Definition": "Physical or mental weakness",
+        "Usage": "His infirmity prevented him from traveling."
+    },
+    {
+        "Word": "Fortuitous",
+        "Definition": "Happening by chance or luck",
+        "Usage": "His fortuitous encounter led to a new job opportunity."
+    },
+    {
+        "Word": "Unabated",
+        "Definition": "Continuing without weakening",
+        "Usage": "The storm raged on with unabated intensity."
+    },
+    {
+        "Word": "Mantle of Discovery",
+        "Definition": "The responsibility or role in making discoveries",
+        "Usage": "Scientists must take on the mantle of discovery."
+    },
+    {
+        "Word": "Pathophysiology",
+        "Definition": "The study of the disordered physiological processes associated with disease",
+        "Usage": "Understanding pathophysiology is crucial for medical students."
+    },
+    {
+        "Word": "Maladies",
+        "Definition": "Diseases or ailments",
+        "Usage": "The region suffered from various maladies due to poor sanitation."
+    },
+    {
+        "Word": "Scourges",
+        "Definition": "Causes of great suffering or destruction",
+        "Usage": "War and famine are scourges of civilization."
+    },
+    {
+        "Word": "Rigamarole",
+        "Definition": "A long, complicated, and tedious process",
+        "Usage": "Getting a visa was a rigamarole of paperwork."
+    },
+    {
+        "Word": "Sentient",
+        "Definition": "Capable of perception and feeling",
+        "Usage": "Many believe artificial intelligence may one day become sentient."
+    },
+    {
+        "Word": "Pandemonium",
+        "Definition": "Wild and noisy disorder or chaos",
+        "Usage": "Pandemonium broke out when the fire alarm went off."
+    },
+    {
+        "Word": "Carnage",
+        "Definition": "Large-scale killing or destruction",
+        "Usage": "The battlefield was filled with carnage after the war."
+    },
+    {
+        "Word": "Belligerent",
+        "Definition": "Hostile and aggressive",
+        "Usage": "His belligerent attitude started an argument."
+    },
+    {
+        "Word": "Capricious",
+        "Definition": "Prone to sudden and unpredictable changes",
+        "Usage": "The stock market is notoriously capricious."
+    },
+    {
+        "Word": "Circuitous",
+        "Definition": "Indirect or roundabout",
+        "Usage": "His explanation was so circuitous that no one understood."
+    },
+    {
+        "Word": "Conundrum",
+        "Definition": "A difficult problem or puzzle",
+        "Usage": "The ethical dilemma posed a real conundrum."
+    },
+    {
+        "Word": "Debilitate",
+        "Definition": "To weaken or drain strength",
+        "Usage": "The illness debilitated him for weeks."
+    },
+    {
+        "Word": "Discern",
+        "Definition": "To recognize or distinguish something clearly",
+        "Usage": "It was difficult to discern the truth from the rumors."
+    },
+    {
+        "Word": "Ephemeral",
+        "Definition": "Lasting for a very short time",
+        "Usage": "Beauty is ephemeral, but character lasts."
+    },
+    {
+        "Word": "Equivocate",
+        "Definition": "To use ambiguous language to avoid commitment",
+        "Usage": "The politician equivocated when asked about taxes."
+    },
+    {
+        "Word": "Fastidious",
+        "Definition": "Extremely attentive to detail; hard to please",
+        "Usage": "She’s fastidious about cleanliness in her home."
+    },
+    {
+        "Word": "Flippant",
+        "Definition": "Lacking proper respect or seriousness",
+        "Usage": "His flippant remark offended the professor."
+    },
+    {
+        "Word": "Insidious",
+        "Definition": "Proceeding in a gradual, subtle way, but with harmful effects",
+        "Usage": "The disease had an insidious onset."
+    },
+    {
+        "Word": "Nefarious",
+        "Definition": "Wicked or criminal",
+        "Usage": "The villain's nefarious plot was finally uncovered."
+    },
+    {
+        "Word": "Paragon",
+        "Definition": "A model of excellence or perfection",
+        "Usage": "She is a paragon of kindness and generosity."
+    },
+    {
+        "Word": "Sycophant",
+        "Definition": "A person who flatters others for personal gain",
+        "Usage": "The CEO surrounded himself with sycophants who never disagreed."
+    },
+    {
+        "Word": "Acrimonious",
+        "Definition": "Bitter or harsh in speech or debate",
+        "Usage": "The divorce proceedings became increasingly acrimonious."
+    },
+    {
+        "Word": "Cacophony",
+        "Definition": "A harsh, discordant mixture of sounds",
+        "Usage": "The city streets were filled with the cacophony of honking cars."
+    },
+    {
+        "Word": "Clandestine",
+        "Definition": "Done secretly, especially for illicit purposes",
+        "Usage": "The spies held a clandestine meeting in the abandoned warehouse."
+    },
+    {
+        "Word": "Deleterious",
+        "Definition": "Causing harm or damage",
+        "Usage": "Smoking has deleterious effects on health."
+    },
+    {
+        "Word": "Enervate",
+        "Definition": "To weaken or drain energy",
+        "Usage": "The hot weather enervated the marathon runners."
+    },
+    {
+        "Word": "Expunge",
+        "Definition": "To erase or remove completely",
+        "Usage": "He wished he could expunge his embarrassing high school memories."
+    },
+    {
+        "Word": "Fortitude",
+        "Definition": "Courage in facing adversity",
+        "Usage": "She showed great fortitude in overcoming her illness."
+    },
+    {
+        "Word": "Lachrymose",
+        "Definition": "Tearful or tending to induce tears",
+        "Usage": "The lachrymose movie left the audience in tears."
+    },
+    {
+        "Word": "Pernicious",
+        "Definition": "Harmful in a subtle or gradual way",
+        "Usage": "Social media can have a pernicious effect on mental health."
+    },
+    {
+        "Word": "Propensity",
+        "Definition": "A natural inclination or tendency",
+        "Usage": "She has a propensity for solving complex problems."
+    },
+    {
+        "Word": "Untenable",
+        "Definition": "Not able to be defended or sustained",
+        "Usage": "His argument was weak and ultimately untenable."
+    }
+]
